@@ -57,6 +57,7 @@ You now have an icon linked to sleepyhead on your Ubuntu desktop.
 SleepyHead and Ubuntu are opensource projects, each subject to their own distribution rights considerations. Please see their respective websites for information about distribution rights, but as far as I know you can use this distrubution as you see fit.
 
 *WAIVER OF LIABILITY/RESPONSIBILITY*
+
 You assume all risks and liabilities for using this software. Don't come crying to me for any reason. I waive all responsibility. You assume all responsibility if you download and install.
 
 SleepyHead:
